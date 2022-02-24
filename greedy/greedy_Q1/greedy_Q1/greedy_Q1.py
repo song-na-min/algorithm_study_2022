@@ -35,3 +35,11 @@ if __name__=="__main__":
 
     number.sort()
 
+    count=0
+    for i in number:
+        count+=1
+        if count>=i:
+            result+=1
+            count=0
+    print(result)
+
