@@ -5,10 +5,12 @@ if __name__=="__main__":
     #처음 풀이 
     q=deque()
 
-    n,m,k,x=4,4,1,1
-    arr=[[1,2],[1,3],[2,3],[2,4]]
+    n,m,k,x=map(int,input().split())
+    arr=[]
+    for i in range(m):
+        arr.append(list(map(int,input().split())))
 
-    visited=[0,0,0,0,0]
+    visited=[0 for i in range(n)]
 
     q.append(x)
     visited[x]=1
