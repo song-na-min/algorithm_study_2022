@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1800
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "binary_serach_3", "binary_serach_3\binary_serach_3.pyproj", "{7176DF95-EA98-4B4C-A343-2DA8B61AFA77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7176DF95-EA98-4B4C-A343-2DA8B61AFA77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7176DF95-EA98-4B4C-A343-2DA8B61AFA77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB989209-334C-468E-8A07-F6B04D67946C}
+	EndGlobalSection
+EndGlobal

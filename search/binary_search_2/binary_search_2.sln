@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1800
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "binary_search_2", "binary_search_2\binary_search_2.pyproj", "{1E018AEA-A642-4AD8-9D77-8A365CC06A36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E018AEA-A642-4AD8-9D77-8A365CC06A36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E018AEA-A642-4AD8-9D77-8A365CC06A36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E958F1F-89CF-418B-920E-E6DD64BE86C9}
+	EndGlobalSection
+EndGlobal
