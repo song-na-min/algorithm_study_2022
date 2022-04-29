@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1800
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Topology_sort", "Topology_sort\Topology_sort.pyproj", "{C9FCFBD3-CCF2-4C22-AEFF-AA2FE45A7F33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9FCFBD3-CCF2-4C22-AEFF-AA2FE45A7F33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9FCFBD3-CCF2-4C22-AEFF-AA2FE45A7F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DC16821-48BF-4818-8608-54A5A42215DB}
+	EndGlobalSection
+EndGlobal
